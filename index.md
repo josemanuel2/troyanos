@@ -4,7 +4,7 @@
 
 
 
-You can use the [editor on GitHub](https://josemanuel2.github.io/troyanos/default.m3u) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://josemanuel2.github.io/troyanos/default.html) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
